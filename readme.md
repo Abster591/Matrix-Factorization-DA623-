@@ -18,9 +18,9 @@ pip install -r requirements.txt
 ```
 
 ## References
--Strang, Gilbert, Linear Algebra and Its Applications. New York, Academic Press, 1976.
--[18.065 Matrix Methods In Data Analysis, Signal Processing, And Machine Learning](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
--[18.06 Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+- Strang, Gilbert, Linear Algebra and Its Applications. New York, Academic Press, 1976.
+- [18.065 Matrix Methods In Data Analysis, Signal Processing, And Machine Learning](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
+- [18.06 Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
 
 Submitted by-
 Manu Raj Singh
